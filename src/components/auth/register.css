@@ -1,0 +1,21 @@
+.register{
+ 
+    
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: rgba(231, 39, 10, 0.782);
+   
+  }
+
+  .register label{
+    font-weight: bolder;
+    font-size: large;
+  }
+
+  .register h1{
+    font-weight: bolder;
+    font-family:sans-serif;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
